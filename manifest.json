@@ -1,0 +1,22 @@
+{
+  "short_name": "Mush'ab Hidayat",
+  "name": "Mushabhidayat",
+  "icons": [
+    {
+      "src": "https://3.bp.blogspot.com/-QnnRDF1ywp0/XoUCkJMaheI/AAAAAAAACss/KEAonW6dac0MSmI--cNHNIetAeKWQldUQCKgBGAsYHg/s48/2019-11-27.png",
+      "type": "image/png",
+      "sizes": "48x48"
+    },
+    {
+      "src": "https://3.bp.blogspot.com/-QnnRDF1ywp0/XoUCkJMaheI/AAAAAAAACss/KEAonW6dac0MSmI--cNHNIetAeKWQldUQCKgBGAsYHg/s96/2019-11-27.png",
+      "type": "image/png",
+      "sizes": "96x96"
+    },
+    {
+      "src": "https://3.bp.blogspot.com/-QnnRDF1ywp0/XoUCkJMaheI/AAAAAAAACss/KEAonW6dac0MSmI--cNHNIetAeKWQldUQCKgBGAsYHg/s192/2019-11-27.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "index.html?launcher=true"
+}
